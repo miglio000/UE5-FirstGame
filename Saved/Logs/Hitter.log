@@ -1459,3 +1459,4 @@ BUILD FAILED
 
 [2024.02.06-00.29.26:768][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.055232 secs
 [2024.02.06-00.29.26:867][  2]LogD3D12RHI: Cannot end block when stack is empty
+[2024.02.06-01.20.41:509][896]LogDerivedDataCache: C:/Users/gabri/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.152 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1275 files in 2054 folders with total size 98 MiB.
